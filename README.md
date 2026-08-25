@@ -2,7 +2,7 @@
 
 An NLP and sentiment analysis project exploring how Reddit users responded to the 2023 *Barbie* movie.
 
-🔗 **[View the Live Streamlit Dashboard](ADD-YOUR-STREAMLIT-LINK-HERE)**
+🔗 **[View the Live Streamlit Dashboard](https://barbie-movie-reddit-sentiment-analysisgit-7iqytvuxmz5hwzsr8nob.streamlit.app)**
 
 ## Background and Overview
 
@@ -34,7 +34,6 @@ The dashboard includes:
 * Most upvoted strongly negative comments
 
 
-**Live Dashboard:** [ADD-YOUR-STREAMLIT-LINK-HERE]
 
 ---
 
